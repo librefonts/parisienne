@@ -1,0 +1,5 @@
+commit: HEAD
+process_files: [Parisienne-Regular.ttf.ttx, src/Parisienne-Regular.otf.ttx, src/Parisienne-Regular-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

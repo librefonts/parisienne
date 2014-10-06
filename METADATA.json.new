@@ -1,0 +1,33 @@
+{
+  "name": "Parisienne",
+  "designer": "Astigmatic",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Handwriting",
+  "size": 34951,
+  "fonts": [
+    {
+      "name": "Parisienne",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Parisienne-Regular.ttf",
+      "postScriptName": "Parisienne-Regular",
+      "fullName": "Parisienne",
+      "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Parisienne\""
+    },
+    {
+      "name": "Parisienne",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Parisienne-Regular-TTF.ttf",
+      "postScriptName": "Parisienne-Regular",
+      "fullName": "Parisienne",
+      "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\nFont Name \"Parisienne\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-01-25"
+}
